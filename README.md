@@ -1,6 +1,6 @@
 # Hi there!
 
-I am a frontend engineer
+I am a front-end engineer aquiring knowledge to reach a full-stack baseline
 
 ## 🌐 Find me on
 
